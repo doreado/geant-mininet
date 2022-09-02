@@ -1,2 +1,2 @@
 Usage  
-` python3 geant_topology.py`
+`sudo python3 geant_topology.py`

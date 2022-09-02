@@ -1,6 +1,8 @@
-from mininet.net import Mininet
 from mininet.cli import CLI
 from mininet.log import setLogLevel, info
+from mininet.net import Mininet
+from mininet.node import Host, RemoteController, OVSKernelSwitch
+
 
 def myNetwork():
     net = Mininet( topo=None,

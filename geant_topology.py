@@ -110,7 +110,7 @@ def myNetwork():
     net.addLink(s3, s21)
     #net.addLink(s4, s16)
      #aggiunti
-    net.addLink(s4, s6)
+    # net.addLink(s4, s6)
     net.addLink(s4, s14)
     net.addLink(s4, s20)
     net.addLink(s5, s8)
